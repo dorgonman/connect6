@@ -1,0 +1,16 @@
+debug
+*.ncb
+/2-2SolvingWiningMove/*.old
+/2-2SolvingWiningMove/*.XML
+/2-2SolvingWiningMove/*.old
+/2-2SolvingWiningMove/*.suo
+新資料夾
+_UpgradeReport_Files
+Release
+Debug
+2-2SolvingWiningMove.vcproj.JAY-202EBB7D206.Jay.user
+2-2SolvingWiningMove.vcproj.JAY-202EBB7D206.照.user
+db.dat
+2-2SolvingWiningMove.vcproj.8.00.old
+2-2SolvingWiningMove.vcproj.DOGK.dorgonman.user
+2-2SolvingWiningMove.vcproj.dorgonman-PC.dorgonman.user
